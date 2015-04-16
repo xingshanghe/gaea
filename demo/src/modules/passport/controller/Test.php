@@ -12,8 +12,9 @@ namespace passport\controller;
 
 use Flight;
 use Gaea\Core;
+use Gaea\Controller;
 
-class Test
+class Test extends Controller
 {
     public function index($name)
     {
