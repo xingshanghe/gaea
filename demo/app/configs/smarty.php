@@ -1,0 +1,1 @@
+<?php/** * smarty引擎配置参数* * @author XingShanghe<xingshanghe@gmail.com>* @date 2015-3-17 上午9:51:10 * @source smarty.php* @version 2.0.0 * @copyright  Copyright 2015 sobey.com */ return array(    'cache_time'        =>  3600,    'template_dir'      =>  '/templates/%s',    'cache_dir'         =>  '/caches',    'compile_dir'       =>  '/compiled',                 );
